@@ -40,7 +40,6 @@
 		E65F7C561E5B409B0067C838 = {
 			isa = PBXGroup;
 			children = (
-				E66C58691E5DB68C0041B3A2 /* Model */,
 				E65F7C611E5B409B0067C838 /* GuessGame_Dimitrije */,
 				E65F7C601E5B409B0067C838 /* Products */,
 			);
@@ -57,6 +56,7 @@
 		E65F7C611E5B409B0067C838 /* GuessGame_Dimitrije */ = {
 			isa = PBXGroup;
 			children = (
+				E66C58691E5DB68C0041B3A2 /* Model */,
 				E65F7C741E5B40C70067C838 /* Supporting Files */,
 				E65F7C641E5B409B0067C838 /* ViewController.swift */,
 				E65F7C661E5B409B0067C838 /* Main.storyboard */,
@@ -81,6 +81,7 @@
 				E66C586A1E5DB6A90041B3A2 /* GuessGame.swift */,
 			);
 			name = Model;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
