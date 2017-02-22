@@ -12,6 +12,7 @@
 		E65F7C681E5B409B0067C838 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E65F7C661E5B409B0067C838 /* Main.storyboard */; };
 		E65F7C6A1E5B409B0067C838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E65F7C691E5B409B0067C838 /* Assets.xcassets */; };
 		E65F7C6D1E5B409B0067C838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E65F7C6B1E5B409B0067C838 /* LaunchScreen.storyboard */; };
+		E66C586B1E5DB6A90041B3A2 /* GuessGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66C586A1E5DB6A90041B3A2 /* GuessGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E65F7C691E5B409B0067C838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E65F7C6C1E5B409B0067C838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E65F7C6E1E5B409B0067C838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E66C586A1E5DB6A90041B3A2 /* GuessGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuessGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		E65F7C561E5B409B0067C838 = {
 			isa = PBXGroup;
 			children = (
+				E66C58691E5DB68C0041B3A2 /* Model */,
 				E65F7C611E5B409B0067C838 /* GuessGame_Dimitrije */,
 				E65F7C601E5B409B0067C838 /* Products */,
 			);
@@ -70,6 +73,14 @@
 				E65F7C6E1E5B409B0067C838 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E66C58691E5DB68C0041B3A2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E66C586A1E5DB6A90041B3A2 /* GuessGame.swift */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -145,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E66C586B1E5DB6A90041B3A2 /* GuessGame.swift in Sources */,
 				E65F7C651E5B409B0067C838 /* ViewController.swift in Sources */,
 				E65F7C631E5B409B0067C838 /* AppDelegate.swift in Sources */,
 			);
@@ -310,6 +322,7 @@
 				E65F7C731E5B409B0067C838 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

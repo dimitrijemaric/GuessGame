@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A51453793685E49612706EE12D3F0C2AFA5EB51E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "04632F0BF47E6A5F6FB839DEAF1AA8C615BDCEB3" : 9223372036854775807,
+    "A51453793685E49612706EE12D3F0C2AFA5EB51E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E96ECBEF-E597-40E6-8E17-A96395067AE0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "04632F0BF47E6A5F6FB839DEAF1AA8C615BDCEB3" : "",
+    "A51453793685E49612706EE12D3F0C2AFA5EB51E" : "GuessGame_Dimitrije\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GuessGame_Dimitrije",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GuessGame_Dimitrije.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dimitrijemaric\/SwiftIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04632F0BF47E6A5F6FB839DEAF1AA8C615BDCEB3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dimitrijemaric\/GuessGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A51453793685E49612706EE12D3F0C2AFA5EB51E"
+    }
+  ]
+}
